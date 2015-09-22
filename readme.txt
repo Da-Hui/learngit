@@ -7,4 +7,5 @@
 \f0\fs24 \cf0 Git is  a distributed version  control system.\
 Git is free software zhouhh  try.\
 Git has a mutable index called stage.\
-Git tracks changes.}
+Git tracks changes.\
+woshiyige haoren.}
